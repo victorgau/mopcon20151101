@@ -5,4 +5,4 @@ The iPython notebook is to show the tools we need to create static maps.  Specif
 To see the polymaps examples, please connect to:
 
 * [http://victorgau.github.io/mopcon20151101/polymaps/tiles.html](http://victorgau.github.io/mopcon20151101/polymaps/tiles.html)
-* [http://victorgau.github.io/mopcon20151101/polymaps/grids.html](http://victorgau.github.io/mopcon20151101/polymaps/grids.html)
+* [http://victorgau.github.io/mopcon20151101/polymaps/grid.html](http://victorgau.github.io/mopcon20151101/polymaps/grid.html)
